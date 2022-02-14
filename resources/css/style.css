@@ -2,6 +2,7 @@ body{
     background-color: black;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
 
 .header__main{
@@ -13,4 +14,14 @@ body{
 .header__link{
     color: aquamarine;
     font-size: 16px;
+}
+
+.header__secondary{
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.par__secondary{
+    font-size: 21px;
+    color: gray;
 }
